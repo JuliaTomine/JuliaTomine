@@ -20,7 +20,4 @@
   💌 Entre em contato: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-tomine/" alt="LinkedIn"/></a>
-</p>
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/julia-tomine/)
