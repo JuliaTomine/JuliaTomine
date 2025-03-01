@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
- ✨✨ Linguagens: **Python**
+ ✨✨ Linguagens: Python | IA | ML | 
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Postman**
+  💼 Ferramentas: Postman | SQL |
 </p>
 
 <p align="left">
