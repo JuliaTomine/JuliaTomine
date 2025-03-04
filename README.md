@@ -4,18 +4,11 @@
   Olá, me chamo Julia!
 </p>
 
-<p align="left">
- ✨✨ Linguagens: Python | IA | ML | 
-</p>
 
-<p align="left">
-  💼 Ferramentas: Postman | SQL |
-</p>
-
-<p align="left">
   👩🏻‍💻 Fatec - Análise e Desenvolvimento de Sistemas ( 2025 - 2027 )
 </p>
 
-<p align="left">
-  💌 Entre em contato: ⤵️
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
