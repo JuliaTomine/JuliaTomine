@@ -1,14 +1,25 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá, me chamo Julia!
+ ## Olá, me chamo Julia!
+
+Sou uma Desenvolvedora Backend 👩🏻‍💻
+
+### 🔧 Tecnologias e Áreas de Interesse
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" />
 </p>
 
 
-  👩🏻‍💻 Fatec - Análise e Desenvolvimento de Sistemas ( 2025 - 2027 )
-</p>
+Entre em contato para mais informações!
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
+---
+
+### 🎓 Formação
+
+- **FATEC** - Análise e Desenvolvimento de Sistemas (2025 - 2027)
+- **FORTEC** - Ensino médio integrado ao técnico em Informática (2022 - 2024)
