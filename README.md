@@ -3,7 +3,7 @@
 
 
 
-### 🔧 Tecnologias e Áreas de Interesse
+### 🔧 Tecnologias e Áreas de Interesse 👩🏻‍💻
 
 <p align="left">
  
