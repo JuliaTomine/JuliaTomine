@@ -1,6 +1,9 @@
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+ ![Desenvolvedora Back-end](https://img.shields.io/badge/Desenvolvedora-Front--end-purple?style=flat-square)
+ <img src="caminho_da_imagem" alt="Imagem pixel art" width="100%">
+
 
 
 ### 🔧 Tecnologias e Áreas de Interesse 👩🏻‍💻
