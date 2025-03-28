@@ -25,4 +25,5 @@ Outras redes que estou, vamos conversar!
 ### 🎓 Formação
 
 - **FATEC** - Análise e Desenvolvimento de Sistemas (2025 - 2027)
+- **ESTÁCIO** - Defesa Cibernética, Graduação EAD ( 2025 - 2027 ) 
 - **FORTEC** - Ensino médio integrado ao técnico em Informática (2022 - 2024)
